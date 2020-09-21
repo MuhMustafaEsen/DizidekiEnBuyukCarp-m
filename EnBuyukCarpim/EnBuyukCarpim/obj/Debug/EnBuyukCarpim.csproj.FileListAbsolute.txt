@@ -1,0 +1,7 @@
+M:\EnBuyukCarpim\EnBuyukCarpim\EnBuyukCarpim\bin\Debug\EnBuyukCarpim.exe.config
+M:\EnBuyukCarpim\EnBuyukCarpim\EnBuyukCarpim\bin\Debug\EnBuyukCarpim.exe
+M:\EnBuyukCarpim\EnBuyukCarpim\EnBuyukCarpim\bin\Debug\EnBuyukCarpim.pdb
+M:\EnBuyukCarpim\EnBuyukCarpim\EnBuyukCarpim\obj\Debug\EnBuyukCarpim.csprojAssemblyReference.cache
+M:\EnBuyukCarpim\EnBuyukCarpim\EnBuyukCarpim\obj\Debug\EnBuyukCarpim.csproj.CoreCompileInputs.cache
+M:\EnBuyukCarpim\EnBuyukCarpim\EnBuyukCarpim\obj\Debug\EnBuyukCarpim.exe
+M:\EnBuyukCarpim\EnBuyukCarpim\EnBuyukCarpim\obj\Debug\EnBuyukCarpim.pdb
